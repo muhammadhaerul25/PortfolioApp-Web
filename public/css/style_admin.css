@@ -1,0 +1,21 @@
+h4 {
+  font-weight: bold;
+  text-align: center;
+}
+
+#img-project {
+  width: 300px;
+  position: relative;
+}
+
+.form-group {
+  font-weight: bold;
+}
+
+.table thead tr * {
+  text-align: left;
+}
+
+.table tbody tr * {
+  vertical-align: middle;
+}
